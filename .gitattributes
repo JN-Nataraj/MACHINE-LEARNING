@@ -1,0 +1,5 @@
+# treat notebooks as text (so diffs are somewhat usable)
+*.ipynb text
+
+# If using Git LFS for .pkl:
+# *.pkl filter=lfs diff=lfs merge=lfs -text
