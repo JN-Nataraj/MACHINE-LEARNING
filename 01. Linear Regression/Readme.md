@@ -1,1 +1,0 @@
-Linear Regression hands on
